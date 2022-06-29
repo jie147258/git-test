@@ -4,5 +4,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println( "学java来动力节点");
         System.out.println("快来学java");
+        System.out.println("还不好好学习");
     }
 }
